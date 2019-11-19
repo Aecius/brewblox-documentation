@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "files.eol": "\r\n",
+  "files.insertFinalNewline": true,
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "stylelint.enable": true,
+  "prettier.requireConfig": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.configPath": ".prettierrc.json",
+  "prettier.disableLanguages": ["pug"],
+  "[jade]": {
+    "editor.defaultFormatter": "ducfilan.pug-formatter"
+  }
+}

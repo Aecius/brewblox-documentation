@@ -1,0 +1,82 @@
+@page {
+  margin: 1cm 1cm 2cm 0cm;
+  background: white; // background color
+  $line-color: black; // color of header and footer lines
+}
+html {
+  padding-left: 1cm;
+  padding-right: 1cm;
+  font-size: 12px !important;
+}
+body {
+  $border-color: black; // color of borders on blocks
+  margin: 2cm;
+  margin-right: 0cm;
+  padding-top: 2cm; // making space for header
+  padding-bottom: 3cm; // making space for footer
+
+  h1 {
+    font-family: "Titillium Web";
+    font-weight: normal;
+    color: black;
+    font-size: 22/12rem;
+  }
+
+  h2 {
+    font-family: "Titillium Web SemiBold";
+    color: black;
+    font-weight: normal;
+    font-size: 16/12rem;
+  }
+  h3 {
+    font-family: "Titillium Web";
+    color: black;
+    font-weight: normal;
+    font-size: 15/12rem;
+  }
+  p {
+    font-family: "Roboto";
+    color: black;
+    font-size: 1rem;
+  }
+  .block {
+    // block header
+    display: block;
+    margin: 0 auto;
+    background: rgb(221, 221, 221);
+    border-top: 1px solid $border-color;
+    border-bottom: 1px solid $border-color;
+    border-left: 1px solid $border-color;
+    border-right: 1px solid $border-color;
+    margin: 1cm 1cm 1cm 1cm;
+    h1 {
+      font-family: "Gill Sans MT";
+      margin: 5mm 5mm 5mm 5mm;
+      color: black;
+      font-weight: bold;
+      font-size: 14/12rem;
+      text-transform: uppercase;
+    }
+    p {
+      margin: 5mm 5mm 5mm 5mm;
+      font-family: "Roboto";
+      font-weight: Bold;
+      font-stretch: condensed;
+      font-size: 1rem;
+    }
+  }
+}
+
+.pdfheader {
+  font-size: 10px;
+  color: #aaa;
+  font-family: Helvetica;
+  font-weight: bold;
+  width: 1000px;
+  border-top: 1px solid #aaa;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-top: 1mm;
+  margin-bottom: -1mm;
+  text-align: center;
+}
