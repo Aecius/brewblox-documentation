@@ -6,9 +6,9 @@ It's called ChapterTest and has HTML enabled.
 
 # This is a title too, but it has to be indented under `:markdown-it`
 
-## 1 As is this
+## As is this
 
-### 1.1 And this
+### And this
 
   <figure class = "block">
     <h1> NOTICE!</h1>
@@ -19,9 +19,9 @@ The format for a text can be seen here. starts the paragraph, the text immediate
 It automatically adds a white space
 Sadly this no longer works: Sometimes you just need an indented text for clarity. For that we use p. followed by indented text.
 
-## 2 Subheaders can also be added
+## Subheaders can also be added
 
-### 2.1 and paragraph headers
+### and paragraph headers
 
 and so things go on and on and on and on.
 yermum.
