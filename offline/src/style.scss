@@ -1,5 +1,5 @@
 @page {
-  margin: 1cm 1cm 2cm 0cm;
+  margin: 4cm 1cm 4cm 0cm;
   background: white; // background color
   $line-color: black; // color of header and footer lines
 }
@@ -8,12 +8,15 @@ html {
   padding-right: 1cm;
   font-size: 12px !important;
 }
+.chapter {
+  page-break-before: always;
+}
 body {
   $border-color: black; // color of borders on blocks
   margin: 2cm;
   margin-right: 0cm;
-  padding-top: 2cm; // making space for header
-  padding-bottom: 3cm; // making space for footer
+  padding-top: 0cm; // making space for header
+  padding-bottom: 0cm; // making space for footer
 
   h1 {
     font-family: "Titillium Web";
@@ -50,6 +53,7 @@ body {
     border-right: 1px solid $border-color;
     margin: 1cm 1cm 1cm 1cm;
     h1 {
+      page-break-before: avoid;
       font-family: "Gill Sans MT";
       margin: 5mm 5mm 5mm 5mm;
       color: black;
@@ -65,18 +69,8 @@ body {
       font-size: 1rem;
     }
   }
-}
-
-.pdfheader {
-  font-size: 10px;
-  color: #aaa;
-  font-family: Helvetica;
-  font-weight: bold;
-  width: 1000px;
-  border-top: 1px solid #aaa;
-  margin-left: 10%;
-  margin-right: 10%;
-  padding-top: 1mm;
-  margin-bottom: -1mm;
-  text-align: center;
+  img {
+    width: 680px;
+    margin-left: -1cm;
+  }
 }
