@@ -1,0 +1,80 @@
+//////////////////////////////////////////////////
+// Content stuff below this line                //
+/////////////////////////////////////////////////
+
+//Importing Markdown texts
+
+.chapter
+  include:markdown-it(html=true) ChoosingaHE.md
+.chapter
+  include:markdown-it(html=true) InstallingHE.md
+.chapter
+  include:markdown-it(html=true) MaintainingHe.md
+
+
+
+//////////////////////////////////////////////////
+// Template stuff below this line               //
+/////////////////////////////////////////////////
+
+//Header
+template#page-header
+  style(type='text/css').
+    .pdfheader {
+      width: 100%;
+      font-family: "Titillium Web";
+      font-size: 14px;
+      text-align: center;
+      border-bottom: 1px solid black;
+      margin-top: 2.5mm;
+      padding-bottom: 5mm;
+    }
+      .pdfheadertext {
+      width: 100%;
+      font-family: "Titillium Web";
+      font-size: 14px;
+      text-align: center;
+    }
+      .pdfheaderlogo {
+      width: 100%;
+      font-family: "Titillium Web";
+      font-size: 14px;
+      text-align: left;
+    }
+  .pdfheader
+    //.pdfheaderLogo
+      figure
+      img(src="https://www.herefordtimes.com/resources/images/10478031.jpg" style='width:20px;height:20px;')
+    .pdfheadertext Example User Manual
+
+//footer
+template#page-footer
+  class(pageNumber)
+  style(type='text/css').
+    .pdffooter {
+      Width: 100%;
+      border-top: 1px solid black;
+    }
+    .pdffootertext {
+      Width: 100%;
+      font-family: "Titillium Web";
+      font-size: 14px;
+      text-align: center;
+    }
+    .pagenumbertext {
+      Width: 90%;
+      font-family: "Lato";
+      color: 	#f01785;
+      font-size: 15px;
+      font-weight: SemiBold;
+      margin-left: 5%; 
+      text-align: center;
+    }
+
+  .pdffooter 
+    .pdffootertext BrewPi.com 
+    .pagenumbertext #[span.pageNumber]
+
+// Stylesheet
+style
+  include:scss style.scss
