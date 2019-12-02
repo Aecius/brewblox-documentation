@@ -31,6 +31,7 @@ body {
     color: black;
     font-weight: normal;
     font-size: 16/12rem;
+    page-break-after: avoid;
   }
   h3 {
     font-family: "Titillium Web";
@@ -43,6 +44,40 @@ body {
     color: black;
     font-size: 1rem;
   }
+
+  //pretty tables here
+  table {
+    page-break-inside: avoid;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: "Roboto";
+    color: black;
+    font-size: 1rem;
+    padding: 3px;
+  }
+  tr {
+    border-bottom: 1px solid grey;
+  }
+  tr:last-child {
+    border-bottom: 1px solid black;
+  }
+  th {
+    padding: 3px;
+    border-left: 1px solid grey;
+  }
+  th:first-child {
+    border-left: 1px solid black;
+  }
+
+  td {
+    border-left: 1px solid grey;
+    padding: 3px;
+  }
+  td:first-child {
+    border-left: 1px solid black;
+    padding: 3px;
+  }
+
   .block {
     // block header
     display: block;
