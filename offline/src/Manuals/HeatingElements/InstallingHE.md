@@ -24,8 +24,20 @@ This section of the manual will explain to you how to install your heating eleme
 | - Red O-ring (size 218)                                                  | Optional: Hammer and Centre Punch Guide Drill Bit.                           |
 | - Thin white silicone washer                                             |                                                                              |
 
+<div style="page-break-after: always;"></div>
+
 ## Legend
 
+![strip cables](./img/strip_cables_iso.svg)
+
 ## Preparation: Installing the Eye Lugs to the Cable
+
+|                                                                             <h1> 1 </h1>                                                                              |                                                                             <h1> 2 </h1>                                                                              |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="img/strip cables_iso.svg" style="width:300px"/>                   | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.herefordtimes.com/resources/images/10478031.jpg" style="width:240px"/> |
+|                                                                  **Strip** 5cm off the cable jacket                                                                   |                                                     **Shorten** the brown (live) and blue (neutral) wires to 3cm                                                      |
+|                                                                             <h1> 3 </h1>                                                                              |                                                                             <h1> 4 </h1>                                                                              |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.herefordtimes.com/resources/images/10478031.jpg" style="width:300px"/> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.herefordtimes.com/resources/images/10478031.jpg" style="width:300px"/> |
+|                                                               **Strip** 7mm off all 3 wire insulations                                                                |                                       **Crimp** an eye lug to each cable. <br> **Pull** to test that they are **fastened well**                                       |
 
 ## Installing the Enclosure

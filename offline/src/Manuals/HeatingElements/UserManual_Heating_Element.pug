@@ -1,16 +1,12 @@
+- var ProductName = "Heating Element"
+
 //////////////////////////////////////////////////
 // Content stuff below this line                //
 /////////////////////////////////////////////////
 
-//Importing Markdown texts
-
+//Importing Pug chapters
 .chapter
-  include:markdown-it(html=true) ChoosingaHE.md
-.chapter
-  include:markdown-it(html=true) InstallingHE.md
-.chapter
-  include:markdown-it(html=true) MaintainingHe.md
-
+  include ./chapters/InstallingHE.pug
 
 
 //////////////////////////////////////////////////
@@ -45,7 +41,7 @@ template#page-header
     //.pdfheaderLogo
       figure
       img(src="https://www.herefordtimes.com/resources/images/10478031.jpg" style='width:20px;height:20px;')
-    .pdfheadertext Example User Manual
+    .pdfheadertext #{ProductName} - User Manual
 
 //footer
 template#page-footer

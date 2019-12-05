@@ -12,6 +12,9 @@ html {
   page-break-before: always;
   counter-reset: h2;
 }
+.pagebreak {
+  page-break-after: always;
+}
 body {
   $border-color: black; // color of borders on blocks
   margin: 2cm;
@@ -44,7 +47,13 @@ body {
     color: black;
     font-size: 1rem;
   }
-
+  .image {
+    width: 40%;
+  }
+  // Here I'll define the lego style image heavy instruction manual.
+  .grid {
+    column-count: 2;
+  }
   //pretty tables here
   table {
     page-break-inside: avoid;
