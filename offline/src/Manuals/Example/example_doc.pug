@@ -1,12 +1,17 @@
-- var ProductName = "Foldback Heating Element"
-
+- var ProductName = "Example"
 //////////////////////////////////////////////////
 // Content stuff below this line                //
 /////////////////////////////////////////////////
 
-//Importing Pug chapters
+//Importing Markdown texts
+
 .chapter
-  include ./chapters/InstallingHE.pug
+  include:markdown-it(html=true) ChapterTest.md
+.chapter
+  include:markdown-it(html=true) LoremOfTheIpsums.md
+.chapter
+  include:markdown-it(html=true) ProlegomenaOfFutureLoremIpsums.md
+
 
 
 //importing header/footer
