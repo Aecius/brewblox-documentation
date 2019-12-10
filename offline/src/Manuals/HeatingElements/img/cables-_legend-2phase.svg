@@ -1,0 +1,23 @@
+<svg id="fd8b94fa-7d6e-411a-a487-98d049d99227" data-name="illustrations" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 170.08 71.58">
+  <defs>
+    <linearGradient id="348ff78f-bbb5-4af2-ba81-52ed6f5754e5" data-name="New Gradient Swatch" x1="56.16" y1="56.16" x2="65.93" y2="56.16" gradientTransform="translate(-46.8 -20.37)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.5" stop-color="#39b54a"/>
+      <stop offset="0.5" stop-color="#d9e021"/>
+    </linearGradient>
+  </defs>
+  <title>cables-</title>
+  <g>
+    <line x1="5.83" y1="65.07" x2="22.83" y2="65.07" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="11"/>
+    <line x1="5.83" y1="65.07" x2="22.83" y2="65.07" fill="none" stroke="#0093ce" stroke-linecap="square" stroke-miterlimit="10" stroke-width="9"/>
+  </g>
+  <rect x="0.71" y="2.77" width="27.07" height="9.77" fill="#a67c52" stroke="#000" stroke-miterlimit="10"/>
+  <rect x="9.36" y="22.26" width="9.77" height="27.07" transform="translate(50.03 21.55) rotate(90)" stroke="#000" stroke-miterlimit="10" fill="url(#348ff78f-bbb5-4af2-ba81-52ed6f5754e5)"/>
+  <g>
+    <text transform="translate(42.35 11.72)" font-size="12" fill="#4d4d4d" font-family="Roboto">B<tspan x="7.63" y="0">r</tspan><tspan x="11.71" y="0">own</tspan></text>
+    <text transform="translate(42.35 40.06)" font-size="12" fill="#4d4d4d" font-family="Roboto">G<tspan x="8.13" y="0">r</tspan><tspan x="12.22" y="0">een/</tspan><tspan x="36.58" y="0">Y</tspan><tspan x="43.79" y="0">ellow</tspan></text>
+    <text transform="translate(42.35 68.41)" font-size="12" fill="#4d4d4d" font-family="Roboto">Blue</text>
+    <text transform="translate(127.15 11.72)" font-size="12" fill="#4d4d4d" font-family="Roboto" font-weight="700">Li<tspan x="9.87" y="0">v</tspan><tspan x="15.93" y="0">e</tspan></text>
+    <text transform="translate(127.15 40.06)" font-size="12" fill="#4d4d4d" font-family="Roboto" font-weight="700">G<tspan x="7.99" y="0">r</tspan><tspan x="12.1" y="0">ound</tspan></text>
+    <text transform="translate(126.43 68.41)" font-size="12" fill="#4d4d4d" font-family="Roboto" font-weight="700">Neutral</text>
+  </g>
+</svg>

@@ -15,110 +15,123 @@ html {
 .pagebreak {
   page-break-after: always;
 }
+
+$border-color: black; // color of borders on blocks
 body {
-  $border-color: black; // color of borders on blocks
   margin: 2cm;
   margin-right: 0cm;
   padding-top: 0cm; // making space for header
   padding-bottom: 0cm; // making space for footer
+}
 
-  h1 {
-    font-family: "Titillium Web";
-    font-weight: normal;
-    color: black;
-    font-size: 22/12rem;
-  }
+h1 {
+  font-family: "Titillium Web";
+  font-weight: normal;
+  color: black;
+  font-size: 22/12rem;
+}
 
-  h2 {
-    font-family: "Titillium Web SemiBold";
-    color: black;
-    font-weight: normal;
-    font-size: 16/12rem;
-    page-break-after: avoid;
-  }
-  h3 {
-    font-family: "Titillium Web";
-    color: black;
-    font-weight: normal;
-    font-size: 15/12rem;
-  }
-  p {
-    font-family: "Roboto";
-    color: black;
-    font-size: 1rem;
-  }
-  .image {
-    width: 40%;
-  }
-  // Here I'll define the lego style image heavy instruction manual.
-  .grid {
-    grid-template-columns: 2;
-    grid-template-rows: 2;
-  }
-  //pretty tables here
-  table {
-    page-break-inside: avoid;
-    border: 1px solid black;
-    border-collapse: collapse;
-    font-family: "Roboto";
-    color: black;
-    font-size: 1rem;
-    padding: 3px;
-  }
-  tr {
-    border-bottom: 1px solid grey;
-  }
-  tr:last-child {
-    border-bottom: 1px solid black;
-  }
-  th {
-    padding: 3px;
-    border-left: 1px solid grey;
-  }
-  th:first-child {
-    border-left: 1px solid black;
-  }
-
-  td {
-    border-left: 1px solid grey;
-    padding: 3px;
-  }
-  td:first-child {
-    border-left: 1px solid black;
-    padding: 3px;
-  }
-
-  .block {
-    // block header
-    display: block;
-    margin: 0 auto;
-    background: rgb(221, 221, 221);
-    border-top: 1px solid $border-color;
-    border-bottom: 1px solid $border-color;
-    border-left: 1px solid $border-color;
-    border-right: 1px solid $border-color;
-    margin: 1cm 1cm 1cm 1cm;
+h2 {
+  font-family: "Titillium Web SemiBold";
+  color: black;
+  font-weight: normal;
+  font-size: 16/12rem;
+  page-break-after: avoid;
+}
+h3 {
+  font-family: "Titillium Web";
+  color: black;
+  font-weight: normal;
+  font-size: 15/12rem;
+}
+p {
+  font-family: "Roboto";
+  color: black;
+  font-size: 1rem;
+}
+.image {
+  width: 40%;
+}
+// Here I'll define the lego style image heavy instruction manual.
+$grid__row-sz: 240;
+.grid {
+  margin: 0, auto;
+  .step {
+    $step_size: $grid__row-sz * 0.5;
+    display: inline-block;
+    vertical-align: top;
     h1 {
-      page-break-before: avoid;
-      font-family: "Gill Sans MT";
-      margin: 5mm 5mm 5mm 5mm;
-      color: black;
-      font-weight: bold;
-      font-size: 14/12rem;
-      text-transform: uppercase;
+    }
+    .image {
+      width: $step_size * 2px;
     }
     p {
-      margin: 5mm 5mm 5mm 5mm;
-      font-family: "Roboto";
-      font-weight: Bold;
-      font-stretch: condensed;
-      font-size: 1rem;
     }
   }
-  img {
-    width: 680px;
-    margin-left: -1cm;
+}
+//pretty tables here
+table {
+  page-break-inside: avoid;
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-family: "Roboto";
+  color: black;
+  font-size: 1rem;
+  padding: 3px;
+}
+tr {
+  border-bottom: 1px solid grey;
+}
+tr:last-child {
+  border-bottom: 1px solid black;
+}
+th {
+  padding: 3px;
+  border-left: 1px solid grey;
+}
+th:first-child {
+  border-left: 1px solid black;
+}
+
+td {
+  border-left: 1px solid grey;
+  padding: 3px;
+}
+td:first-child {
+  border-left: 1px solid black;
+  padding: 3px;
+}
+
+.block {
+  // block header
+  display: block;
+  margin: 0 auto;
+  background: rgb(221, 221, 221);
+  border-top: 1px solid $border-color;
+  border-bottom: 1px solid $border-color;
+  border-left: 1px solid $border-color;
+  border-right: 1px solid $border-color;
+  margin: 1cm 1cm 1cm 1cm;
+  h1 {
+    page-break-before: avoid;
+    font-family: "Gill Sans MT";
+    margin: 5mm 5mm 5mm 5mm;
+    color: black;
+    font-weight: bold;
+    font-size: 14/12rem;
+    text-transform: uppercase;
   }
+  p {
+    margin: 5mm 5mm 5mm 5mm;
+    font-family: "Roboto";
+    font-weight: Bold;
+    font-stretch: condensed;
+    font-size: 1rem;
+  }
+}
+img {
+  width: 680px;
+  margin-left: -1cm;
 }
 
 //////////////////////////////////////////////////////

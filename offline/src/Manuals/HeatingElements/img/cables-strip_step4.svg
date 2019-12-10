@@ -1,0 +1,64 @@
+<svg id="28c2231c-e1ce-436d-b7d0-b39464a9fc8f" data-name="illustrations" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 198.43 170.08">
+  <defs>
+    <symbol id="1a0380b6-0a70-4acf-9970-d9648ebb5945" data-name="coperstripped" viewBox="0 0 22.04 6.79">
+      <g>
+        <line x1="1.42" y1="1.42" x2="20.62" y2="1.42" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2.83"/>
+        <line x1="1.42" y1="1.42" x2="20.62" y2="1.42" fill="none" stroke="#d78c00" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.42"/>
+      </g>
+      <g>
+        <line x1="1.42" y1="3.4" x2="20.62" y2="3.4" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2.83"/>
+        <line x1="1.42" y1="3.4" x2="20.62" y2="3.4" fill="none" stroke="#d78c00" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.42"/>
+      </g>
+      <g>
+        <line x1="1.42" y1="5.38" x2="20.62" y2="5.38" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2.83"/>
+        <line x1="1.42" y1="5.38" x2="20.62" y2="5.38" fill="none" stroke="#d78c00" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1.42"/>
+      </g>
+    </symbol>
+  </defs>
+  <title>cables-strip</title>
+  <g>
+    <g>
+      <path d="M85.88,60.74s-3.26-.51-16.26,4.83v7.91c13,4.49,16.26,4.25,16.26,4.25A8.51,8.51,0,1,0,85.88,60.74ZM85.58,74.9a5.66,5.66,0,1,1,5.67-5.66A5.67,5.67,0,0,1,85.58,74.9Z" fill="#b3b3b3" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+      <use id="a23e8b6f-2011-47ac-bccf-af0d1df7fe75" data-name="coperstripped" width="22.04" height="6.79" transform="matrix(1, 0, 0, -1, 49.57, 72.87)" xlink:href="#1a0380b6-0a70-4acf-9970-d9648ebb5945"/>
+      <g>
+        <path d="M7.7,80.15s10.17-1.26,16.43-5.25,10.31-5.42,23.43-5.42" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="11.34"/>
+        <path d="M7.7,80.15s10.17-1.26,16.43-5.25,10.31-5.42,23.43-5.42" fill="none" stroke="#a67c52" stroke-linecap="square" stroke-miterlimit="10" stroke-width="8.5"/>
+      </g>
+      <path d="M40.58,78c10.19,0,9-1.52,14.17-1.52H68.92v-14H54.25C50,62.5,50.4,61,40.58,61V78Z" fill="#0055e9" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.42"/>
+    </g>
+    <g>
+      <path d="M85.88,94.11s-3.26-.51-16.26,4.83v7.91c13,4.49,16.26,4.25,16.26,4.25A8.51,8.51,0,1,0,85.88,94.11Zm-0.3,14.17a5.66,5.66,0,1,1,5.67-5.66A5.67,5.67,0,0,1,85.58,108.28Z" fill="#b3b3b3" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+      <use width="22.04" height="6.79" transform="translate(49.57 99.54)" xlink:href="#1a0380b6-0a70-4acf-9970-d9648ebb5945"/>
+      <g>
+        <path d="M7.7,92.15s3.17,0.05,10.63.86c12.25,1.32,11.25,11.91,29.24,9.93" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="11.34"/>
+        <path d="M7.7,92.15s3.17,0.05,10.63.86c12.25,1.32,11.25,11.91,29.24,9.93" fill="none" stroke="#0093ce" stroke-linecap="square" stroke-miterlimit="10" stroke-width="8.5"/>
+      </g>
+      <path d="M40.58,111.36c10.19,0,9-1.52,14.17-1.52H68.92v-14H54.25c-4.26,0-3.85-1.52-13.68-1.52v17Z" fill="#0055e9" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.42"/>
+    </g>
+    <g>
+      <path d="M171,77.12s-3.38-.51-16.38,4.83v7.91c13,4.49,16.38,4.25,16.38,4.25A8.51,8.51,0,1,0,171,77.12Zm-0.18,14.17a5.66,5.66,0,1,1,5.67-5.66A5.67,5.67,0,0,1,170.83,91.28Z" fill="#b3b3b3" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+      <use width="22.04" height="6.79" transform="translate(134.57 82.34)" xlink:href="#1a0380b6-0a70-4acf-9970-d9648ebb5945"/>
+      <g>
+        <line x1="8.13" y1="86.07" x2="131.13" y2="86.07" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="11"/>
+        <image width="133" height="10" transform="translate(3.13 80.57)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIUAAAAKCAYAAACaPJ0xAAAACXBIWXMAAAsSAAALEgHS3X78AAAAQElEQVRYR+3SMREAIRAEwbOCDCzgFzGf4QRSqjZAwHfQ2YRTfY4Nt3oF/I8pCKYgmIJQ32obbqYgmIJgCoIpCAePvydUXHwp1AAAAABJRU5ErkJggg=="/>
+      </g>
+      <path d="M125.83,94.36c10.19,0,9-1.52,14.17-1.52h14.17v-14H139.5c-4.26,0-3.85-1.52-13.68-1.52v17Z" fill="#0055e9" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.42"/>
+    </g>
+    <line x1="0.7" y1="85.92" x2="14.87" y2="85.92" fill="none" stroke="#333" stroke-miterlimit="10" stroke-width="31.18"/>
+  </g>
+  <g>
+    <line x1="57.39" y1="114.73" x2="57.39" y2="142.31" fill="none" stroke="#4d4d4d" stroke-miterlimit="10" stroke-width="0.71"/>
+    <polygon points="54.49 117.08 55.01 117.56 57.39 115 59.77 117.56 60.29 117.08 57.39 113.96 54.49 117.08" fill="#4d4d4d"/>
+  </g>
+  <g>
+    <line x1="57.39" y1="56.5" x2="57.39" y2="28.92" fill="none" stroke="#4d4d4d" stroke-miterlimit="10" stroke-width="0.71"/>
+    <polygon points="60.29 54.15 59.77 53.67 57.39 56.23 55.02 53.67 54.5 54.15 57.39 57.27 60.29 54.15" fill="#4d4d4d"/>
+  </g>
+  <g>
+    <line x1="142.43" y1="70.67" x2="142.43" y2="28.92" fill="none" stroke="#4d4d4d" stroke-miterlimit="10" stroke-width="0.71"/>
+    <polygon points="145.33 68.32 144.81 67.84 142.43 70.4 140.06 67.84 139.53 68.32 142.43 71.44 145.33 68.32" fill="#4d4d4d"/>
+  </g>
+  <text transform="translate(42.1 156.45)" font-size="12" fill="#4d4d4d" font-family="Roboto" font-weight="700">Pinch</text>
+  <text transform="translate(42.1 23.89)" font-size="12" fill="#4d4d4d" font-family="Roboto" font-weight="700">Pinch</text>
+  <text transform="translate(127.14 23.89)" font-size="12" fill="#4d4d4d" font-family="Roboto" font-weight="700">Pinch</text>
+</svg>

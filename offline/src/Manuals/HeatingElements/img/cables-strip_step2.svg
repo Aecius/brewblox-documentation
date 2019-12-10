@@ -1,0 +1,24 @@
+<svg id="2dd7e5dd-5dec-41b8-b9c0-a5f6609f962e" data-name="illustrations" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 170.08 70.87">
+  <title>cables-strip</title>
+  <g>
+    <line x1="98.44" y1="56.69" x2="14.94" y2="56.69" fill="none" stroke="#333" stroke-miterlimit="10" stroke-width="0.71"/>
+    <polygon points="96.1 53.8 95.61 54.31 98.17 56.69 95.61 59.07 96.1 59.59 99.21 56.69 96.1 53.8" fill="#333"/>
+    <polygon points="17.29 53.8 17.77 54.31 15.21 56.69 17.77 59.07 17.29 59.59 14.17 56.69 17.29 53.8" fill="#333"/>
+  </g>
+  <g>
+    <g>
+      <line x1="9.98" y1="23.07" x2="94.98" y2="23.07" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="11"/>
+      <line x1="9.98" y1="23.07" x2="94.98" y2="23.07" fill="none" stroke="#a67c52" stroke-linecap="square" stroke-miterlimit="10" stroke-width="9"/>
+    </g>
+    <g>
+      <line x1="9.98" y1="35.07" x2="94.98" y2="35.07" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="11"/>
+      <line x1="9.98" y1="35.07" x2="94.98" y2="35.07" fill="none" stroke="#0093ce" stroke-linecap="square" stroke-miterlimit="10" stroke-width="9"/>
+    </g>
+    <g>
+      <line x1="9.98" y1="29.07" x2="150.98" y2="29.07" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="11"/>
+      <image width="151" height="10" transform="translate(4.98 23.57)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAAAKCAYAAAC5Z8zkAAAACXBIWXMAAAsSAAALEgHS3X78AAAAQklEQVRYR+3SMQ2AQBAAwbOCDCzgFzF0OPmXQEKy3RTTbblz3teCwnwF8Je5yJiLjLnIzPMeCwrmImMuMuYiYy4yGylL7wOe8864AAAAAElFTkSuQmCC"/>
+    </g>
+    <line y1="28.63" x2="14.17" y2="28.63" fill="none" stroke="#333" stroke-miterlimit="10" stroke-width="31.18"/>
+  </g>
+  <text transform="translate(43.47 70.83)" font-size="12" fill="#4d4d4d" font-family="Roboto" font-weight="700">3 cm</text>
+</svg>
