@@ -54,18 +54,39 @@ p {
 }
 // Here I'll define the lego style image heavy instruction manual.
 $grid__row-sz: 240;
-.grid {
-  margin: 0, auto;
+.row {
+  $step_size: $grid__row-sz * 0.5; //defined for later
+  //margin: 0, auto;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  align-content: space-evenly;
+  justify-items: flex-start;
+  page-break-inside: avoid;
   .step {
-    $step_size: $grid__row-sz * 0.5;
-    display: inline-block;
-    vertical-align: top;
-    h1 {
-    }
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-self: stretch;
+    align-content: stretch;
+    justify-content: space-between;
+    max-width: $grid__row-sz; //keeps sizes uniform, which in turn helps the layout
     .image {
-      width: $step_size * 2px;
+      width: 100%; //$step_size * 2px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      align-self: stretch;
+      justify-self: stretch;
     }
-    p {
+    .caption {
+      align-self: flex-start;
+      h1 {
+        display: inline;
+      }
+      p {
+        display: inline;
+      }
+      // justify-content: flex-end;
     }
   }
 }
