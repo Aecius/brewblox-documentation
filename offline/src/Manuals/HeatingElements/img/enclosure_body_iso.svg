@@ -1,0 +1,29 @@
+<svg id="59b54bdd-20a5-4565-9b80-c739f5cfee6a" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 170.08 212.6">
+  <defs>
+    <clipPath id="ebc671db-d809-42d5-b9a4-df9a4348fb53">
+      <ellipse cx="85.37" cy="50.85" rx="74.85" ry="42.64" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+    </clipPath>
+  </defs>
+  <title>enclosure</title>
+  <g id="06da26d9-6223-4093-9bbe-ad1629945128" data-name="iso">
+    <g id="c4360069-d710-4cdc-a5c4-9cb9b8cb0b77" data-name="shell">
+      <path d="M108.06,92a146,146,0,0,0-45.38,0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+      <path d="M85.37,0.57c-47,0-85,22-85,49.09s38.07,49.09,85,49.09,85-22,85-49.09S132.34,0.57,85.37.57Zm0,93.38C42,94,6.88,73.9,6.88,49.16S42,4.36,85.37,4.36s78.49,20.06,78.49,44.8S128.72,94,85.37,94Z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+      <path d="M170.41,164.08c0,27.11-38.07,49.09-85,49.09s-85-22-85-49.09h0V49.67h0c0,27.11,38.07,49.09,85,49.09s85-22,85-49.09V164.08Z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+    </g>
+    <g id="e7686750-1f7a-42c6-aa67-74e26cf627d9" data-name="rings">
+      <g clip-path="url(#ebc671db-d809-42d5-b9a4-df9a4348fb53)">
+        <g>
+          <ellipse cx="85.37" cy="52.96" rx="74.85" ry="41.45" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+          <ellipse cx="85.37" cy="56.43" rx="74.85" ry="41.45" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+          <ellipse cx="85.37" cy="59.9" rx="74.85" ry="41.45" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+          <ellipse cx="85.37" cy="63.37" rx="74.85" ry="41.45" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+          <ellipse cx="85.37" cy="66.85" rx="74.85" ry="41.45" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+          <ellipse cx="85.37" cy="70.32" rx="74.85" ry="41.45" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+          <ellipse cx="85.37" cy="73.79" rx="74.85" ry="41.45" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+        </g>
+      </g>
+      <ellipse cx="85.37" cy="50.85" rx="74.85" ry="42.64" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+    </g>
+  </g>
+</svg>

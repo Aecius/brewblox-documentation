@@ -1,0 +1,15 @@
+<svg id="6f890df7-16a0-4043-968c-43034085fce2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170.08 141.73">
+  <title>enclosure</title>
+  <g id="1a632663-a130-4137-af59-31be4700f943" data-name="side">
+    <g>
+      <rect x="9.6" y="0.09" width="150.87" height="104" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+      <rect x="22.6" y="104.09" width="124.87" height="28" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+      <rect x="38.6" y="132.09" width="92.87" height="3" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+      <rect x="29.6" y="135.09" width="110.87" height="6.88" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+    </g>
+    <g>
+      <polygon points="170.08 141.73 140.48 141.73 140.48 135.09 131.48 135.07 131.48 132.07 147.48 132.07 147.48 104.08 160.48 104.08 160.48 0.07 170.08 0.07 170.08 141.73" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+      <polygon points="0 141.73 29.6 141.73 29.6 135.09 38.6 135.07 38.6 132.07 22.6 132.07 22.6 104.08 9.6 104.08 9.6 0.07 0 0.07 0 141.73" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+    </g>
+  </g>
+</svg>

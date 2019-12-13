@@ -1,0 +1,12 @@
+<svg id="9add778b-112b-4db5-b047-69c235b853e3" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170.08 170.08">
+  <title>enclosure</title>
+  <g id="7b8d4469-54d1-4bd1-8d21-1e5fafdd4fc7" data-name="inside">
+    <circle cx="85.04" cy="85.04" r="85.04" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.71"/>
+    <g id="4c83e9c0-88c7-4b7d-a62b-c57a58b8d148" data-name="inside">
+      <circle cx="85.04" cy="85.04" r="78.04" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.71"/>
+    </g>
+    <g id="a9d44b56-1728-4922-8ffb-ac086e1e6c76" data-name="inside">
+      <circle cx="85.04" cy="85.04" r="33.31" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.71"/>
+    </g>
+  </g>
+</svg>

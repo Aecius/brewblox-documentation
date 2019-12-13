@@ -1,0 +1,13 @@
+<svg id="c0349172-d9b9-43d2-8adc-79786ff8f361" data-name="actions" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <title>icon</title>
+  <g id="1380bb6f-672b-4635-8b2e-be071dccec40" data-name="rotate">
+    <circle cx="150" cy="150" r="150" fill="#929497"/>
+    <circle cx="150" cy="150" r="90" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.17"/>
+    <line x1="150" y1="150" x2="150" y2="119.83" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.17"/>
+    <line x1="150" y1="70.5" x2="150" y2="60" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.17"/>
+    <line x1="190.52" y1="187.63" x2="150" y2="150" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.17"/>
+    <line x1="150" y1="240" x2="150" y2="228.5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.17"/>
+    <line x1="228.5" y1="150" x2="240" y2="150" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.17"/>
+    <line x1="60" y1="150" x2="71.5" y2="150" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.17"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="ab420384-6a62-4f3d-8785-8b93b8c87ac1" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170.08 170.08">
+  <title>enclosure</title>
+  <g id="ce014782-9409-40bc-81c0-4df3c4656080" data-name="inside">
+    <circle cx="85.04" cy="85.04" r="85.04" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.71"/>
+    <circle cx="85.04" cy="85.04" r="75.82" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.71"/>
+    <circle cx="85.04" cy="85.04" r="46.12" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M50.77,135.42L24.34,89.65a9.06,9.06,0,0,1,0-9.06L50.77,34.82a9.06,9.06,0,0,1,7.85-4.53h52.85a9.06,9.06,0,0,1,7.85,4.53l26.42,45.77a9.06,9.06,0,0,1,0,9.06l-26.42,45.77a9.06,9.06,0,0,1-7.85,4.53H58.62A9.06,9.06,0,0,1,50.77,135.42Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+    <circle cx="85.04" cy="21.34" r="5.67" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.71"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="ec179af5-53ff-4593-8a7b-be81da46bf1d" data-name="actions" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <title>icon</title>
+  <g id="afce3b4d-5867-4e27-a114-d003688c7143" data-name="angle">
+    <circle cx="150" cy="150" r="150" fill="#929497"/>
+    <path d="M224.87,148.35a75,75,0,0,0-75-75" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+    <text transform="translate(66.14 199.71)" font-size="99.21" fill="#fff" font-family="Roboto" font-weight="700">90°</text>
+    <polyline points="173.52 109.46 149.87 72.5 188.45 51.61" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.17"/>
+  </g>
+</svg>

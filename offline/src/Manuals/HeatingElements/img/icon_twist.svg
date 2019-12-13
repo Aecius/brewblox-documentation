@@ -1,0 +1,12 @@
+<svg id="b3b438d6-ffa1-473a-94a0-5db93aafb616" data-name="actions" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <title>icon</title>
+  <g id="dbea64c3-dc67-4815-a79a-09a29ceab724" data-name="rotate">
+    <circle cx="150" cy="150" r="150" fill="#929497"/>
+    <g>
+      <path d="M156.05,204.22c61.16,0,101.47-26.14,101.47-58.38,0-21.28-21.6-39.9-53.87-50.1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.17"/>
+      <polyline points="188.19 234.1 156.05 204.22 188.19 174.35" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.17"/>
+      <path d="M143.95,95.78c-61.16,0-101.47,26.14-101.47,58.38,0,21.28,21.6,39.9,53.87,50.1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.17"/>
+      <polyline points="111.81 65.9 143.95 95.78 111.81 125.65" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="14.17"/>
+    </g>
+  </g>
+</svg>

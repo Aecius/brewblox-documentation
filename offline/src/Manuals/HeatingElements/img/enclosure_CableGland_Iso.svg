@@ -1,0 +1,36 @@
+<svg id="dc2a105e-c1ee-473b-bff2-2efa3fb8d531" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89.85 141.72">
+  <title>enclosure</title>
+  <g id="5e00dbdc-c902-494e-b607-a3f678d9d9f6" data-name="cable gland iso">
+    <path d="M85,28.38s4.23,3.65,4.93,7.42L89.85,61.86l-7.13,9.83L89,79V96.65L77,109.19V114s-4.87,14.91-32.38,14.91S12,113.85,12,113.85v-6.27L2.71,95.64,2.62,83.06l0.34-6L7.49,73,0,66V40.62L4.71,29S6.93,1.33,44.63,0C44.63,0,81.19-.87,85,28.38Z" fill="#fff"/>
+    <g>
+      <polygon points="82.72 71.69 89.13 79.24 89.13 96.92 70.2 116.47 62.34 119.06 25.62 118.34 17.86 115.13 2.35 95.48 2.35 82.34 2.87 77.06 7.52 73.13 21.61 86.46 29.21 89.52 30.9 88.48 66.2 86.82 67.31 87.26 74.62 84 74.55 82.63 82.72 71.69" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+      <polyline points="2.35 82.86 17.76 101.89 25.21 105.41 62.24 106.23 69.89 103.75 89.13 84.31" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+      <line x1="17.76" y1="101.89" x2="17.86" y2="115.13" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+      <line x1="25.21" y1="105.41" x2="25.62" y2="118.34" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+      <line x1="62.24" y1="106.23" x2="62.34" y2="119.06" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+      <line x1="69.89" y1="103.75" x2="70.2" y2="116.48" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+    </g>
+    <g>
+      <path d="M11.64,108.54s5.71,15.06,32.91,15.06a48.28,48.28,0,0,0,25.65-7.13" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+      <path d="M27.08,118.37A52.77,52.77,0,0,0,44.55,121a50.49,50.49,0,0,0,14.33-1.94" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+      <path d="M11.64,111.13s5.71,15.06,32.91,15.06c25.59,0,32.67-14.61,32.67-14.61" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+      <path d="M11.64,107.25v6.6s5.71,15.06,32.91,15.06S77.22,113.6,77.22,113.6v-4.41" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+    </g>
+    <g>
+      <path d="M10.42,76.07c0.14,6.07,5.17,11.86,5.17,11.86S23,99.65,43.86,100.48,77,88.89,77.65,83.44a23.78,23.78,0,0,0,3.1-8.55" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+      <path d="M11.64,81.41s5.71,15.06,32.91,15.06S80,78.21,80,78.21" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+      <path d="M65.65,86.89s-7.93,4.62-20.89,4.62c-26.69,0-33.12-14.41-33.12-14.41" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+    </g>
+    <polyline points="0 40.62 0 66.02 21.61 86.46 29.21 89.52 30.9 88.48 66.2 86.82 67.52 87.34 74.62 84 74.62 82.86 89.85 61.86 89.93 35.79" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M4.77,30A60.14,60.14,0,0,0,0,40.62s14,1.7,21,19.08l8.37,2.16s15.83-9.72,38.17-2.17l7-2.79s5.62-17.69,15.38-21.1c0,0,.73-1-5.18-7.9" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+    <line x1="20.98" y1="59.7" x2="21.61" y2="86.46" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+    <line x1="29.35" y1="61.86" x2="29.93" y2="89.11" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+    <line x1="67.52" y1="59.69" x2="67.52" y2="87.34" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+    <line x1="74.55" y1="56.89" x2="74.62" y2="84" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+    <g>
+      <ellipse cx="44.76" cy="18" rx="25.24" ry="14.48" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+      <ellipse cx="44.76" cy="27.89" rx="39.99" ry="27.62" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+      <path d="M21.05,22.86s23.78-16.11,47,.83" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.71"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="67b1dfc3-0bd8-47bf-a871-f4a368230448" data-name="actions" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <title>icon</title>
+  <g id="a959496a-5079-491c-977d-e2a40ae589ee" data-name="water">
+    <g id="ce7bcb48-8b39-4c41-8271-c23f637d045e" data-name="drops">
+      <circle cx="150" cy="150" r="150" fill="#929497"/>
+    </g>
+  </g>
+  <g>
+    <path d="M141.15,125.85c0-19.88-36-66-36-66s-36,46.12-36,66A36,36,0,0,0,141.15,125.85Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+    <path d="M230.84,205c0-24.3-44-80.67-44-80.67s-44,56.37-44,80.67A44,44,0,0,0,230.84,205Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+  </g>
+</svg>

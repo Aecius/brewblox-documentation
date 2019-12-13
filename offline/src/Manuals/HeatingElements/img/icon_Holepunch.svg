@@ -1,0 +1,9 @@
+<svg id="3999686e-eb1e-4ad9-bfd2-7a21a686d9be" data-name="actions" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <title>icon</title>
+  <g id="f0d65319-d214-4b27-baca-eee46ed69d05" data-name="screw">
+    <circle cx="150" cy="150" r="150" fill="#929497"/>
+    <path d="M77.31,185.46c0,17.38,9.7,31.47,21.68,31.47h33.11c-12,0-21.68-14.09-21.68-31.47S120.12,154,132.09,154H99C87,154,77.31,168.08,77.31,185.46Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+    <ellipse cx="132.09" cy="185.46" rx="21.68" ry="31.47" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+    <path d="M132.09,185.46h37.2s12,0.39,12-13.53V71.1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+  </g>
+</svg>

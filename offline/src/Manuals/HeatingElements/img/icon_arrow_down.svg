@@ -1,0 +1,8 @@
+<svg id="76f76b98-358e-45e8-939c-470f9590b358" data-name="actions" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <title>icon</title>
+  <g id="77c672a7-1288-4c2b-8b4f-c18a79995948" data-name="move">
+    <circle cx="150" cy="150" r="150" fill="#929497"/>
+    <line x1="150" y1="43.5" x2="150" y2="253.17" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+    <polyline points="210 193.17 150 253.17 90 193.17" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+  </g>
+</svg>
