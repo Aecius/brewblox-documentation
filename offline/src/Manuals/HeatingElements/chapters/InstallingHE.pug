@@ -16,9 +16,9 @@ p.
             .header WARNING!
             p.
                 Always consult a qualified electrician to install your heating element and to connect it to your control panel. 
-                Always use a ground fault protected outlet or include a GFCI/RCD in your control panel.
+                <br> Always use a ground fault protected outlet or include a GFCI/RCD in your control panel.
 
-:markdown-it
+:markdown-it(html=true)
     | Parts                                                                    | Tools                                                                        |
     | :----------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
     | Kettle (Please check the element will fit within your kettle's diameter) | Wire Strippers                                                               |
@@ -35,7 +35,7 @@ p.
 .pagebreak
 
 h2 Legend
-.image
+.legend
     include ../img/cables-strip_legend-2phase.svg
 
 h2 Preparation: Installing the Eye Lugs to the Cable
@@ -43,14 +43,12 @@ h2 Preparation: Installing the Eye Lugs to the Cable
 .row
     .step
         .caption
-            .number 1.  
             p <b>Strip</b> 5cm off the cable jacket   
         .image
             include ../img/cables-strip_step1.svg
 
     .step
         .caption
-            .number 2. 
             p <b>Shorten</b> the brown (live) and blue (neutral) wires to 3cm 
         .image 
             include ../img/cables-strip_step2.svg
@@ -58,21 +56,26 @@ h2 Preparation: Installing the Eye Lugs to the Cable
 .row        
     .step
         .caption
-            .number 3. 
             p <b>Strip</b> 7mm off all 3 wire insulations
         .image 
-        include ../img/cables-strip_step3.svg
+            include ../img/cables-strip_step3.svg
         //this lets it align nicely
-        .caption
+        div
 
 
     .step
         .caption
-            .number 4.
+            //.number 4.
             p <b>Crimp</b> an eye lug to each cable. <br> <b>Pull </b> to test that they are <b>fastened well</b> 
         .image 
-        include ../img/cables-strip_step4.svg
-
+            include ../img/cables-strip_step4.svg
 
 
 h2 Installing the Enclosure
+    .step
+        //.caption
+        .row
+            .image.icon
+                include ../img/icon_screwdriver.svg
+            .caption
+                p <b>Screw</b> this!

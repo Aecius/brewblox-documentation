@@ -35,37 +35,53 @@ h2 {
   font-family: "Titillium Web SemiBold";
   color: black;
   font-weight: normal;
-  font-size: 16/12rem;
+  font-size: (16rem / 12);
   page-break-after: avoid;
 }
 h3 {
   font-family: "Titillium Web";
   color: black;
   font-weight: normal;
-  font-size: 15/12rem;
+  font-size: (15rem / 12);
 }
 p {
   font-family: "Roboto";
   color: black;
   font-size: 1rem;
 }
+
+//image types
 .image {
-  width: 40%;
+  width: 100%;
+}
+.legend {
+  width: 35%;
+}
+.icon {
+  max-width: 64px;
 }
 
+////////////////////////////////////////////////////////////////////
+//                         DEFINING STEPS                        //
+///////////////////////////////////////////////////////////////////
 .step {
+  @extend .column;
   flex-grow: 1;
   width: 50%;
   max-width: 10cm;
-  display: flex;
-  flex-direction: column;
   align-content: stretch;
   justify-content: space-between;
   // max-width: $grid__row-sz; //keeps sizes uniform, which in turn helps the layout
   .image {
-    width: 100%; //$step_size * 2px;
+    width: 85%; //at this width it actually fits 4 on the same page
     margin-top: 20px;
     margin-bottom: 20px;
+    .icon {
+      display: inline;
+    }
+  }
+  .row {
+    align-items: center;
   }
   .caption {
     @extend .row;
@@ -114,13 +130,18 @@ td:first-child {
   border-left: 1px solid black;
   padding: 3px;
 }
-
+// Defining rows
 .row {
   display: flex;
   flex-direction: row;
   page-break-inside: avoid;
 }
-
+//and columns
+.column {
+  display: flex;
+  flex-direction: column;
+}
+//CAUTION! WARNING! NOTICE!  and all those fun blocks
 .info-block {
   // block header
   background: rgb(221, 221, 221);
@@ -206,4 +227,27 @@ h5.nocount:before,
 h6.nocount:before {
   content: "";
   counter-increment: none;
+}
+
+//////////////////////////////////////////////////////
+// This is an automatic numberer for instructions    //
+//////////////////////////////////////////////////////
+h2 {
+  counter-reset: p;
+}
+
+.step {
+  p:before {
+    counter-increment: p;
+    content: counter(p) ". ";
+    display: inline;
+    font-family: "Titillium Web";
+    font-size: (20rem / 12);
+    padding-right: 5mm;
+  }
+
+  p.nocount:before {
+    content: "";
+    counter-increment: none;
+  }
 }
