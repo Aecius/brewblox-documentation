@@ -54,6 +54,19 @@ p {
 .image {
   width: 100%;
 }
+.image {
+  // VARIABLES FOR THE INPUT WOULD BE NICE
+  .rotate {
+    transform: rotate(90deg);
+  }
+  .resize {
+    width: 50%;
+  }
+  .resize.recenter {
+    width: 50%;
+    margin-left: 25%;
+  }
+}
 .legend {
   width: 35%;
 }
@@ -62,7 +75,9 @@ p {
 }
 
 ////////////////////////////////////////////////////////////////////
-//                         DEFINING STEPS                        //
+//   This bit defines what .step does                            //
+//   .step is the class used for step by step image based        //
+//   instruction manuals                                         //
 ///////////////////////////////////////////////////////////////////
 .step {
   @extend .column;
@@ -71,14 +86,27 @@ p {
   max-width: 10cm;
   align-content: stretch;
   justify-content: space-between;
-  // max-width: $grid__row-sz; //keeps sizes uniform, which in turn helps the layout
+}
+// defining all the things .step can do seperately for relative clarity
+.step {
   .image {
     width: 85%; //at this width it actually fits 4 on the same page
     margin-top: 20px;
     margin-bottom: 20px;
     .icon {
-      display: inline;
+      max-width: 64px;
+      align-self: center;
+      justify-self: center;
+      padding: 0 5mm;
     }
+    .subimage {
+      align-self: center;
+      justify-self: center;
+    }
+  }
+  .wide {
+    width: 120%;
+    max-width: 20cm;
   }
   .row {
     align-items: center;
@@ -94,6 +122,13 @@ p {
     }
     p {
       // display: inline;
+    }
+    .icon {
+      max-width: 48px;
+      display: inline;
+      align-self: center;
+      justify-self: center;
+      padding-right: 5mm;
     }
   }
 }
@@ -140,6 +175,13 @@ td:first-child {
 .column {
   display: flex;
   flex-direction: column;
+}
+//aligning a section
+.align {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  flex: 1;
 }
 //CAUTION! WARNING! NOTICE!  and all those fun blocks
 .info-block {
