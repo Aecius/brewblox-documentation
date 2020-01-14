@@ -1,0 +1,17 @@
+<svg id="2f66d9a4-f3f3-47fc-802e-e2c19de81fec" data-name="illustration" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113.39 155.91">
+  <title>heater_element</title>
+  <g opacity="0.25">
+    <line x1="91.3" y1="86.83" x2="91.3" y2="68.36" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <line x1="22.08" y1="68.14" x2="22.08" y2="88.38" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M22.08,87.39s6.29,12.76,34.28,12.76c18.52,0,30.3-6.13,34.94-13.32" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M22.08,82.26S28.38,95,56.36,95C73.68,95,89.5,86.83,91.3,81.23" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M22.08,77.13S28.77,89.93,56.36,89.9c21.95,0,32.19-8.21,34.94-14.31" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M22.08,72.1s2,12.76,34.28,12.76c21,0,32.88-7.56,34.94-14.31" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M81,57.89V68.75c0,2.17-3.81,3.94-8.51,3.94s-8.51-1.76-8.51-3.94V54.09c-2.34-.21-4.76-0.32-7.24-0.32-2.32,0-4.58.1-6.78,0.28v14.7c0,2.17-3.81,3.94-8.51,3.94s-8.51-1.76-8.51-3.94v-11C26.24,60.32,22.08,64,22.08,68.14c0,7.93,15.5,14.36,34.61,14.36S91.3,76.07,91.3,68.14C91.3,64.12,87.34,60.5,81,57.89Z" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M49.92,65.44v3.31c0,2.17-3.81,3.94-8.51,3.94s-8.51-1.76-8.51-3.94V65.44a3.43,3.43,0,0,0-1.8,2.7c0,2.63,4.62,4.77,10.31,4.77s10.31-2.14,10.31-4.77A3.43,3.43,0,0,0,49.92,65.44Z" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M81,65.44v3.31c0,2.17-3.81,3.94-8.51,3.94s-8.51-1.76-8.51-3.94V65.44a3.43,3.43,0,0,0-1.8,2.7c0,2.63,4.62,4.77,10.31,4.77s10.31-2.14,10.31-4.77A3.43,3.43,0,0,0,81,65.44Z" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M49.92,15.19V68.75c0,2.17-3.81,3.94-8.51,3.94s-8.51-1.76-8.51-3.94V15.19" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M81,15.19V68.75c0,2.17-3.81,3.94-8.51,3.94s-8.51-1.76-8.51-3.94V15.19" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+  </g>
+  <path d="M98.92,88.8c0,12.23-17.39,19.15-42.55,19.15S14.81,101,14.81,88.8c0-11.38,7.27-13.95,7.27-13.95V86.07S23,100.43,56.69,100.43c32.14,0,34.61-14.36,34.61-14.36l0-10.87S98.92,78.42,98.92,88.8Z" fill="#aaa" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+</svg>

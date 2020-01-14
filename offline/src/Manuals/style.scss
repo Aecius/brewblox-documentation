@@ -1,3 +1,7 @@
+:root {
+  --percentage: 50;
+  --distance: 0px;
+}
 @page {
   margin: 4cm 1cm 4cm 0cm;
   background: white; // background color
@@ -60,18 +64,104 @@ p {
     transform: rotate(90deg);
   }
   .resize {
-    width: 50%;
+    width: 50%; //(1% * var(--percenatage));
   }
   .resize.recenter {
-    width: 50%;
-    margin-left: 25%;
+    width: 50%; //(1% * var(--percenatage));
+    margin-left: 24%;
+  }
+  //MANAGING OVERLAP
+  .overlap {
+    position: relative;
+    top: 0px; /* Positoning: distance from top border */
+    left: 0px; /* Positioning: distance from left border */
+    .step8 {
+      position: relative;
+      top: -58px; //-280px; /* Positoning: distance from top border */
+      left: 0px; /* Positioning: distance from left border */
+      width: 85%;
+      z-index: -1;
+    }
+    .step8._2 {
+      @extend .step8;
+      top: -140.5px; //-280px; /* Positoning: distance from top border */
+      left: 0px; /* Positioning: distance from left border */
+      z-index: 2;
+    }
+    .step9 {
+      position: relative;
+      top: -155.5px; //-729.5px; /* Positoning: distance from top border */
+      left: -22px; /* Positioning: distance from left border */
+      width: 105%;
+    }
+    .above {
+      z-index: 2;
+    }
+  }
+  //MANAGING CROPPING
+  .crop {
+    overflow: hidden;
+  }
+  .crop.bottom {
+    @extend .crop;
+    max-height: 200px;
+  }
+  .crop.top {
+    @extend .crop;
+    max-height: 200px;
+    margin-top: -50%;
+  }
+  .crop.bottomhalf {
+    @extend .crop.top;
+    max-height: 50px;
+    margin-bottom: 0px;
   }
 }
 .legend {
   width: 35%;
 }
 .icon {
-  max-width: 64px;
+  max-width: 24px;
+}
+////////////////////////////////////////////////////////////////////
+//There must be a better way than this to handle movement.        //
+////////////////////////////////////////////////////////////////////
+.move {
+  position: relative;
+  .distance {
+    .I {
+      --distance: 1px;
+    }
+    .V {
+      --distance: 5px;
+    }
+    .D {
+      --distance: 10px;
+    }
+    .C {
+      --distance: 100px;
+    }
+    .M {
+      --distance: 1000px;
+    }
+  }
+
+  .left {
+    @extend .distance;
+    left: -var(--distance);
+  }
+  .right {
+    @extend .distance;
+    left: var(--distance);
+  }
+  .up {
+    @extend .distance;
+    top: -var(--distance);
+  }
+  .down {
+    @extend .distance;
+    top: var(--distance);
+  }
 }
 
 ////////////////////////////////////////////////////////////////////
@@ -84,29 +174,27 @@ p {
   flex-grow: 1;
   width: 50%;
   max-width: 10cm;
-  align-content: stretch;
-  justify-content: space-between;
+  align-items: center; //stretch;
+  justify-content: space-evenly; //space-evenly;
 }
 // defining all the things .step can do seperately for relative clarity
 .step {
   .image {
-    width: 85%; //at this width it actually fits 4 on the same page
+    width: 100%; //at this width it actually fits 4 on the same page
+    max-width: 260px;
     margin-top: 20px;
     margin-bottom: 20px;
     .icon {
-      max-width: 64px;
+      max-width: 36px;
       align-self: center;
       justify-self: center;
       padding: 0 5mm;
     }
-    .subimage {
-      align-self: center;
-      justify-self: center;
-    }
   }
   .wide {
-    width: 120%;
+    width: 2 * 85%;
     max-width: 20cm;
+    margin-left: 60%;
   }
   .row {
     align-items: center;
@@ -114,14 +202,12 @@ p {
   .caption {
     @extend .row;
     align-self: flex-start;
+    align-items: baseline;
     .number {
       display: inline;
       font-family: "Titillium Web";
       font-size: (20rem / 12);
       padding-right: 5mm;
-    }
-    p {
-      // display: inline;
     }
     .icon {
       max-width: 48px;
@@ -170,6 +256,10 @@ td:first-child {
   display: flex;
   flex-direction: row;
   page-break-inside: avoid;
+}
+.row.high {
+  @extend .row;
+  margin-top: -10%;
 }
 //and columns
 .column {
