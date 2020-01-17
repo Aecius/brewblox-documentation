@@ -74,29 +74,27 @@ h2 Preparation: Installing the Eye Lugs to the Cable
 h2 Installing the Enclosure
 .row
     .step
+        //Step 1
         .wide
             .row   
                 //Left column
                 .column 
                     .caption
-                        p.nocount &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        p 
-                    .align
-                        .image
-                            // the actual images
-                            .resize.recenter
-                                .rotate
-                                    include ../img/strip_cables_iso_copy_5.svg
-                                .resize.recenter
-                                    include ../img/enclosure_CableGland_Iso.svg
-                                include ../img/enclosure_cap_iso.svg
-                    .caption
-                        //This ugly little piggy serves to help scale and align the cluster of pictures above.
-                        :markdown-it(html=true)
+                        p
+                    .image
+                        include ../img/step_1_composite.svg
+                    //p.nocount
+
+
+                    //This ugly little piggy serves to help scale picture above.
+                    //:markdown-it(html=true)
                         <p class='nocount'>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
                         <p class='nocount'>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </p>
                 //Right column
                 .column
+                    .caption
+                        //This is here to make it align.
+                        p.nocount
                     .caption
                         .image.icon
                             include ../img/icon_screwdriver.svg
@@ -109,8 +107,9 @@ h2 Installing the Enclosure
                         .image.icon
                             include ../img/icon_exclamationmark.svg
                         p.nocount <b>Do not tighten</b> the cable gland pressure dome yet! This is the very last step...
-.row.high
+.row
     .step
+        //Step 2
         .caption
             .image.icon
                 include ../img/icon_screwdriver.svg
@@ -119,6 +118,7 @@ h2 Installing the Enclosure
             .resize
                 include ../img/heater_element_screw_live.svg
     .step
+        //Step 3
         .caption
             .image.icon
                 include ../img/icon_anticlockwise90.svg
@@ -127,8 +127,9 @@ h2 Installing the Enclosure
             .resize
                 include ../img/heater_element_bend_live.svg
 
-.row.high
+.row
     .step
+        //Step 4
         .caption
             .image.icon
                 include ../img/icon_screwdriver.svg
@@ -137,6 +138,7 @@ h2 Installing the Enclosure
             .resize
                 include ../img/heater_element_screw_neutral.svg
     .step
+        //Step 5
         .caption
             .image.icon
                 include ../img/icon_anticlockwise90.svg
@@ -144,8 +146,9 @@ h2 Installing the Enclosure
         .image
             .resize
                 include ../img/heater_element_bend_neutral.svg
-.row.high
+.row
     .step
+        //Step 6
         .caption
             .image.icon
                 .rotate
@@ -156,43 +159,44 @@ h2 Installing the Enclosure
             .resize
                 include ../img/heater_element_removing_washer.svg
     .step
+        //Step 7
         .caption
             .image.icon
                 include ../img/icon_arrow_down.svg
             p <b>Place</b> thin white gasket inside the housing
         .image
-            .resize 
-                include ../img/enclosure_cap_top.svg
-.row.high
+            .resize
+                .rotate 
+                    include ../img/step_7_composite.svg
+.row
     .step
+        //Step 8
         .caption
             .image.icon
                 include ../img/icon_arrow_down.svg
             p <b>Insert</b> the element through the enclosure housing.
         .image
-            .crop.bottom
-                .resize
-                    include ../img/heater_element_element_cutoff.svg
             .resize
-                .overlap
-                    .step8
-                        include ../img/enclosure_body_iso.svg
-
+                include ../img/step_8_composite.svg
     .step
+        //Step 9
         .caption
             .image.icon
                 include ../img/icon_screwdriver.svg
             p <b>Screw</b> the grounding eye lug to housing with the short bolt (M4)
         .image
-            .crop.bottom
+            .resize
+                include ../img/step_9_composite.svg
+            //.crop.bottom
                 .resize
                     include ../img/heater_element_element_cable_focus.svg
-            .resize
+            //.resize
                 .overlap
                     .step9
                         include ../img/enclosure_body_front.svg
-.row.high
+.row
     .step
+        //Step 10
         .caption
             .image.icon
                 include ../img/icon_screwdriver.svg
@@ -201,6 +205,7 @@ h2 Installing the Enclosure
             .resize
                 include ../img/heater_element_screw_neutral.svg
     .step
+        //Step 11
         .caption
             .image.icon
                 include ../img/icon_anticlockwise90.svg

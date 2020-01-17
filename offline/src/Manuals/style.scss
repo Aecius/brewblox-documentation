@@ -70,24 +70,14 @@ p {
     width: 50%; //(1% * var(--percenatage));
     margin-left: 24%;
   }
+  .fixedsize {
+    height: 200px;
+  }
   //MANAGING OVERLAP
   .overlap {
     position: relative;
     top: 0px; /* Positoning: distance from top border */
     left: 0px; /* Positioning: distance from left border */
-    .step8 {
-      position: relative;
-      top: -58px; //-280px; /* Positoning: distance from top border */
-      left: 0px; /* Positioning: distance from left border */
-      width: 85%;
-      z-index: -1;
-    }
-    .step8._2 {
-      @extend .step8;
-      top: -140.5px; //-280px; /* Positoning: distance from top border */
-      left: 0px; /* Positioning: distance from left border */
-      z-index: 2;
-    }
     .step9 {
       position: relative;
       top: -155.5px; //-729.5px; /* Positoning: distance from top border */
@@ -174,7 +164,8 @@ p {
   flex-grow: 1;
   width: 50%;
   max-width: 10cm;
-  align-items: center; //stretch;
+  align-self: flex-start;
+  align-items: stretch; //stretch;
   justify-content: space-evenly; //space-evenly;
 }
 // defining all the things .step can do seperately for relative clarity
@@ -184,6 +175,8 @@ p {
     max-width: 260px;
     margin-top: 20px;
     margin-bottom: 20px;
+    align-self: center;
+    //justify-self: center;
     .icon {
       max-width: 36px;
       align-self: center;
@@ -194,10 +187,10 @@ p {
   .wide {
     width: 2 * 85%;
     max-width: 20cm;
-    margin-left: 60%;
+    //margin-left: 60%;
   }
   .row {
-    align-items: center;
+    align-items: flex-start;
   }
   .caption {
     @extend .row;

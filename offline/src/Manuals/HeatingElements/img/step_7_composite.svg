@@ -1,0 +1,11 @@
+<svg id="70015f9c-5715-45a6-9947-38b3f0ed4a9d" data-name="ab420384-6a62-4f3d-8785-8b93b8c87ac1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170.79 170.79">
+  <title>step_7_composite</title>
+  <g id="046dbd54-e5a6-4d3a-bd9e-6d8b360d6f2f" data-name="ce014782-9409-40bc-81c0-4df3c4656080">
+    <circle cx="85.4" cy="85.4" r="85.04" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.71"/>
+    <circle cx="85.4" cy="85.4" r="75.82" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.71"/>
+    <circle cx="85.4" cy="85.4" r="46.12" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M50.77,135.42L24.34,89.65a9.06,9.06,0,0,1,0-9.06L50.77,34.82a9.06,9.06,0,0,1,7.85-4.53h52.85a9.06,9.06,0,0,1,7.85,4.53l26.42,45.77a9.06,9.06,0,0,1,0,9.06l-26.42,45.77a9.06,9.06,0,0,1-7.85,4.53H58.62A9.06,9.06,0,0,1,50.77,135.42Z" transform="translate(0.35 0.35)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+    <circle cx="85.4" cy="21.7" r="5.67" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.71"/>
+  </g>
+  <circle cx="85.49" cy="85.47" r="50.14" fill="none" stroke="#abadb0" stroke-miterlimit="10" stroke-width="7"/>
+</svg>
