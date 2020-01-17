@@ -1,0 +1,19 @@
+<svg id="bddd0604-d1c4-4af4-a867-aa77e8ff540e" data-name="kettles" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 992.13 1134.57">
+  <title>kettle</title>
+  <g id="dbdcab4b-9c29-440b-aed0-bdf1d6cab26e" data-name="iso inside">
+    <path d="M496.06,168.29C222.1,168.29,0,130.7,0,84.34v965.88c0,46.36,222.1,83.94,496.06,83.94s496.06-37.58,496.06-83.94V84.34C992.13,130.7,770,168.29,496.06,168.29Z" fill="#d0d2d3" stroke="#231f20" stroke-miterlimit="10" stroke-width="1.42"/>
+    <ellipse id="442a827d-c22e-4676-b4ea-230cf99c75ae" data-name="kettle top" cx="496.06" cy="84.34" rx="496.06" ry="83.94" fill="#d0d2d3" stroke="#231f20" stroke-miterlimit="10" stroke-width="1.42"/>
+    <ellipse id="9edcaa78-e631-482c-8433-5354a2101ef7" data-name="kettle top" cx="496.06" cy="1049.72" rx="496.06" ry="83.94" fill="#d0d2d3" stroke="#231f20" stroke-miterlimit="10" stroke-width="1.42"/>
+    <g id="a93efd47-066d-435b-b290-95945e5bda95" data-name="3way">
+      <g>
+        <path d="M866,828c0,32.49-13.17,58.83-29.42,58.83h18.64c16.25,0,29.42-26.34,29.42-58.83s-13.17-58.83-29.42-58.83H836.58C852.82,769.18,866,795.53,866,828Z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+        <path d="M853.4,886.84s25.31-7.93,25.31-58.82c0-49.29-26.84-58.83-26.84-58.83" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+        <path d="M847.35,886.84s25.31-7.93,25.31-58.82c0-49.29-26.84-58.83-26.84-58.83" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+        <ellipse cx="836.58" cy="828.02" rx="29.42" ry="58.83" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+        <path d="M196.56,871.54a43.79,43.79,0,1,1,0-87.58H835.43s5.3,0,5.3,10.64c0,9.94-5.3,10.12-5.3,10.12H196.74a23.4,23.4,0,1,0,0,46.8H835.43s5.29,0.05,5.29,10.54c0,9.49-5.29,9.49-5.29,9.49H196.56Z" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="0.71"/>
+        <path d="M851.1,820.53c2.76,0,5-4.48,5-10s-2.24-10-5-10H108s-9.94.78-9.94,10,10.83,10,10.83,10H851.1Z" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="0.71"/>
+        <path d="M851.1,854.69c2.76,0,5-4.48,5-10s-2.24-10-5-10H108s-9.94.78-9.94,10,10.83,10,10.83,10H851.1Z" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="0.71"/>
+      </g>
+    </g>
+  </g>
+</svg>

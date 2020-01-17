@@ -1,0 +1,29 @@
+<svg id="766fd4f4-77e9-4ba6-a9d4-9112dcc47276" data-name="kettles" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060.53 1134.57">
+  <title>kettle</title>
+  <g id="fe61bea9-d668-43c8-8b5d-c7ce565acd9a" data-name="iso outside">
+    <g id="60c2343d-fa56-4c79-8115-2de34aa18f1f" data-name="kettle bottom">
+      <path d="M496.42,1133.86c-132.56,0-257.18-8.73-350.9-24.59-45.54-7.71-81.29-16.68-106.24-26.66-25.59-10.24-38.57-21-38.57-32V90.51c8.9,20.35,59.44,39.18,144.57,53.58,93.8,15.87,218.5,24.61,351.14,24.61S753.76,160,847.56,144.1c85.13-14.4,135.67-33.24,144.57-53.58v960.06c0,11-13,21.8-38.57,32-25,10-60.7,19-106.24,26.66C753.6,1125.12,629,1133.86,496.42,1133.86Z" fill="#d0d2d3"/>
+      <path d="M991.42,93.43v957.14c0,21.35-52.56,42.49-144.22,58-93.69,15.85-218.26,24.58-350.78,24.58s-257.1-8.73-350.78-24.58c-91.65-15.51-144.22-36.65-144.22-58V93.43C6.64,102,19,110.23,38.48,118c25.1,10,61,19.05,106.68,26.78,93.84,15.88,218.58,24.62,351.26,24.62s257.42-8.74,351.26-24.62c45.69-7.73,81.58-16.74,106.68-26.78,19.44-7.78,31.85-16,37.07-24.59M992.83,84c0,46.39-222.25,84-496.42,84S0,130.39,0,84v966.57c0,46.39,222.25,84,496.42,84s496.42-37.61,496.42-84V84h0Z" fill="#231f20"/>
+    </g>
+    <ellipse id="fde6014c-6d00-43cb-aa66-824549b63f99" data-name="kettle top" cx="496.42" cy="84" rx="496.42" ry="84" fill="#d0d2d3" stroke="#231f20" stroke-miterlimit="10" stroke-width="1.42"/>
+  </g>
+  <ellipse cx="856.1" cy="945.69" rx="29.42" ry="58.83" fill="#929497" stroke="#231f20" stroke-miterlimit="10" stroke-width="1.42"/>
+  <g>
+    <g>
+      <path d="M883.18,945.69c0-32.49,13.17-58.83,29.42-58.83H856.1c-16.25,0-29.42,26.34-29.42,58.83s13.17,58.83,29.42,58.83h56.5C896.35,1004.52,883.18,978.18,883.18,945.69Z" fill="#fff" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+      <ellipse cx="912.6" cy="945.69" rx="29.42" ry="58.83" fill="#fff" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+    </g>
+    <g>
+      <path d="M908.95,945.69c0-13.73,5.56-24.86,12.43-24.86h-3.73c-6.86,0-12.43,11.13-12.43,24.86s5.56,24.86,12.43,24.86h3.73C914.51,970.55,908.95,959.42,908.95,945.69Z" fill="#fff" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+      <ellipse cx="921.38" cy="945.69" rx="12.43" ry="24.86" fill="#fff" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+    </g>
+    <g>
+      <path d="M933,945.69c0-9.18,3.72-16.62,8.31-16.62H923.39c-4.59,0-8.31,7.44-8.31,16.62s3.72,16.62,8.31,16.62h17.93C936.74,962.31,933,954.87,933,945.69Z" fill="#fff" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+      <ellipse cx="941.33" cy="945.69" rx="8.31" ry="16.62" fill="#fff" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+      <path d="M940,934.19s-2.75,3.24-2.75,11.49,3.25,11.92,3.25,11.92h3a39.42,39.42,0,0,1,2.5-11.92,18.58,18.58,0,0,1-2.87-11.49H940Z" fill="#fff" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+      <line x1="946" y1="945.69" x2="937.21" y2="945.69" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+    </g>
+    <path d="M1060.53,812.6l-56.31,126.34c-6,18.67-22.58,18.67-22.58,18.67H940.46l-3.25-11.92L940,934.19h30.75s9.5,0,13.36-9l55-124.29h14Z" fill="#fff" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+    <path d="M937.21,945.69H977s10,0,15.79-11.49L1053,800.94" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+  </g>
+</svg>

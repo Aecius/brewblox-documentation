@@ -1,0 +1,23 @@
+<svg id="15959f88-c242-45e0-bf9d-2200cb2b92a0" data-name="kettles" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060.53 1134.57">
+  <title>kettle</title>
+  <g id="5ef54771-ae7d-4712-9a3e-148d49c03d8b" data-name="iso outside">
+    <g id="7a97e698-6e3e-4800-9f64-27786e326dbc" data-name="kettle bottom">
+      <path d="M496.42,1133.86c-132.56,0-257.18-8.73-350.9-24.59-45.54-7.71-81.29-16.68-106.24-26.66-25.59-10.24-38.57-21-38.57-32V90.51c8.9,20.35,59.44,39.18,144.57,53.58,93.8,15.87,218.5,24.61,351.14,24.61S753.76,160,847.56,144.1c85.13-14.4,135.67-33.24,144.57-53.58v960.06c0,11-13,21.8-38.57,32-25,10-60.7,19-106.24,26.66C753.6,1125.12,629,1133.86,496.42,1133.86Z" fill="#d0d2d3"/>
+      <path d="M991.42,93.43v957.14c0,21.35-52.56,42.49-144.22,58-93.69,15.85-218.26,24.58-350.78,24.58s-257.1-8.73-350.78-24.58c-91.65-15.51-144.22-36.65-144.22-58V93.43C6.64,102,19,110.23,38.48,118c25.1,10,61,19.05,106.68,26.78,93.84,15.88,218.58,24.62,351.26,24.62s257.42-8.74,351.26-24.62c45.69-7.73,81.58-16.74,106.68-26.78,19.44-7.78,31.85-16,37.07-24.59M992.83,84c0,46.39-222.25,84-496.42,84S0,130.39,0,84v966.57c0,46.39,222.25,84,496.42,84s496.42-37.61,496.42-84V84h0Z" fill="#231f20"/>
+    </g>
+    <ellipse id="9637a64b-7b41-4057-a3e2-94fa8834b8cf" data-name="kettle top" cx="496.42" cy="84" rx="496.42" ry="84" fill="#d0d2d3" stroke="#231f20" stroke-miterlimit="10" stroke-width="1.42"/>
+  </g>
+  <ellipse cx="856.1" cy="945.69" rx="7.09" ry="14.17" fill="#929497" stroke="#231f20" stroke-miterlimit="10" stroke-width="1.42"/>
+  <g>
+    <path d="M1059.53,931.52H856.1c-3.91,0-7.09,6.35-7.09,14.17s3.17,14.17,7.09,14.17h203.43" fill="#fff" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+    <path d="M950.52,931.52s-3.22,18.33,12.75,28.35" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+    <path d="M928.54,931.52s-3.22,18.33,12.75,28.35" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+    <path d="M906.57,931.52s-3.22,18.33,12.75,28.35" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+    <path d="M884.59,931.52s-3.22,18.33,12.75,28.35" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+    <path d="M862.61,931.52s-3.22,18.33,12.75,28.35" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+    <path d="M1038.42,931.52s-3.22,18.33,12.75,28.35" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+    <path d="M1016.45,931.52s-3.22,18.33,12.75,28.35" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+    <path d="M994.47,931.52s-3.22,18.33,12.75,28.35" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+    <path d="M972.49,931.52s-3.22,18.33,12.75,28.35" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.42"/>
+  </g>
+</svg>

@@ -173,8 +173,9 @@ p {
   .image {
     width: 100%; //at this width it actually fits 4 on the same page
     max-width: 260px;
+    //max-height: 210px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     align-self: center;
     //justify-self: center;
     .icon {
@@ -187,7 +188,20 @@ p {
   .wide {
     width: 2 * 85%;
     max-width: 20cm;
+    justify-items: content;
+    margin-bottom: 20px;
     //margin-left: 60%;
+    .subwide {
+      @extend .column;
+      margin-left: 9.5%;
+      margin-right: 9.5%;
+      p {
+        max-width: 130px;
+      }
+      .image {
+        width: 130px;
+      }
+    }
   }
   .row {
     align-items: flex-start;
