@@ -1,0 +1,24 @@
+<svg id="4032d790-6e58-4223-beea-4262bf9bbb16" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129.26 138.54">
+  <title>step_10_sloppy</title>
+  <path d="M106.47,73.6c0,12.23-17.39,19.15-42.55,19.15S22.36,85.84,22.36,73.6c0-11.38,7.27-13.95,7.27-13.95V70.88s0.89,14.36,34.61,14.36c32.14,0,34.61-14.36,34.61-14.36l0-10.87S106.47,63.23,106.47,73.6Z" fill="#ababab" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+  <g opacity="0.25">
+    <path d="M98.85,53.17" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <line x1="98.85" y1="71.64" x2="98.85" y2="53.17" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <line x1="29.63" y1="52.95" x2="29.63" y2="73.19" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M29.63,72.2S35.93,85,63.91,85c18.52,0,30.3-6.13,34.94-13.32" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M29.63,67.07s6.29,12.76,34.28,12.76C81.23,79.83,97,71.64,98.85,66" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M29.63,61.94s6.69,12.79,34.28,12.76c21.95,0,32.19-8.21,34.94-14.31" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M29.63,56.91s2,12.76,34.28,12.76c21,0,32.88-7.56,34.94-14.31" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M88.5,42.7V53.56c0,2.17-3.81,3.94-8.51,3.94s-8.51-1.76-8.51-3.94V38.9c-2.34-.21-4.76-0.32-7.24-0.32-2.32,0-4.58.1-6.78,0.28v14.7c0,2.17-3.81,3.94-8.51,3.94s-8.51-1.76-8.51-3.94v-11c-6.66,2.62-10.82,6.32-10.82,10.43,0,7.93,15.5,14.36,34.61,14.36s34.61-6.43,34.61-14.36C98.85,48.93,94.89,45.31,88.5,42.7Z" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M57.47,50.25v3.31c0,2.17-3.81,3.94-8.51,3.94s-8.51-1.76-8.51-3.94V50.25a3.43,3.43,0,0,0-1.8,2.7c0,2.63,4.62,4.77,10.31,4.77s10.31-2.14,10.31-4.77A3.43,3.43,0,0,0,57.47,50.25Z" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M88.5,50.25v3.31c0,2.17-3.81,3.94-8.51,3.94s-8.51-1.76-8.51-3.94V50.25a3.43,3.43,0,0,0-1.8,2.7c0,2.63,4.62,4.77,10.31,4.77s10.31-2.14,10.31-4.77A3.43,3.43,0,0,0,88.5,50.25Z" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M57.47,0V53.56c0,2.17-3.81,3.94-8.51,3.94s-8.51-1.76-8.51-3.94V0" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <path d="M88.5,0V53.56c0,2.17-3.81,3.94-8.51,3.94s-8.51-1.76-8.51-3.94V0" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+  </g>
+  <g>
+    <polyline points="41.24 41.97 36.38 43.09 31.71 44.41 27.26 45.93 23.07 47.63 19.17 49.51" fill="none" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+    <path d="M19.17,49.51c-12.62,6-24.62,20-15.62,34,14,22,41,24,65,24,21,0,41-6,56-21,7-8,5-20-2-28-9-9-21-13-32.83-15.94" fill="none" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+    <path d="M128.83,138.19c-0.27-21.71-.27-42.71,0-64.92" fill="none" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+    <path d="M0.35,73.27c0.2,21.21.2,43.21,0,64.37" fill="none" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
+  </g>
+</svg>
