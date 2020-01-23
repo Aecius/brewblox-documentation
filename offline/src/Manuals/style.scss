@@ -16,6 +16,13 @@ html {
   page-break-before: always;
   counter-reset: h2;
 }
+.titlepage {
+  @extend .chapter;
+  text-align: center;
+  h1 {
+    font-size: (36rem /12);
+  }
+}
 .pagebreak {
   page-break-after: always;
 }
@@ -72,39 +79,6 @@ p {
   }
   .fixedsize {
     height: 200px;
-  }
-  //MANAGING OVERLAP
-  .overlap {
-    position: relative;
-    top: 0px; /* Positoning: distance from top border */
-    left: 0px; /* Positioning: distance from left border */
-    .step9 {
-      position: relative;
-      top: -155.5px; //-729.5px; /* Positoning: distance from top border */
-      left: -22px; /* Positioning: distance from left border */
-      width: 105%;
-    }
-    .above {
-      z-index: 2;
-    }
-  }
-  //MANAGING CROPPING
-  .crop {
-    overflow: hidden;
-  }
-  .crop.bottom {
-    @extend .crop;
-    max-height: 200px;
-  }
-  .crop.top {
-    @extend .crop;
-    max-height: 200px;
-    margin-top: -50%;
-  }
-  .crop.bottomhalf {
-    @extend .crop.top;
-    max-height: 50px;
-    margin-bottom: 0px;
   }
 }
 .legend {

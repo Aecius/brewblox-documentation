@@ -1,18 +1,30 @@
-<svg id="bddd0604-d1c4-4af4-a867-aa77e8ff540e" data-name="kettles" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 992.13 1134.57">
+<svg id="59a7ab37-1e2f-47f6-9766-46bba91d4b87" data-name="kettles" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 992.13 1134.57">
+  <defs>
+    <filter id="f11f7283-1092-488a-9eb9-a98ddb272322" x="141.31" y="0" width="851.17" height="1134.57" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="3ad390f3-25a7-40e4-a646-ce5f19d8681d" x="141.31" y="0" width="851.17" height="1134.57" maskUnits="userSpaceOnUse">
+      <path d="M839.55,1134.57H992.48V0H839.55V783.28c14.85,0,23.22,24.33,23.22,46.26,0,19.82-8.37,43.55-23.22,43.55v261.48Z" filter="url(#f11f7283-1092-488a-9eb9-a98ddb272322)"/>
+    </mask>
+  </defs>
   <title>kettle</title>
-  <g id="dbdcab4b-9c29-440b-aed0-bdf1d6cab26e" data-name="iso inside">
-    <path d="M496.06,168.29C222.1,168.29,0,130.7,0,84.34v965.88c0,46.36,222.1,83.94,496.06,83.94s496.06-37.58,496.06-83.94V84.34C992.13,130.7,770,168.29,496.06,168.29Z" fill="#d0d2d3" stroke="#231f20" stroke-miterlimit="10" stroke-width="1.42"/>
-    <ellipse id="442a827d-c22e-4676-b4ea-230cf99c75ae" data-name="kettle top" cx="496.06" cy="84.34" rx="496.06" ry="83.94" fill="#d0d2d3" stroke="#231f20" stroke-miterlimit="10" stroke-width="1.42"/>
-    <ellipse id="9edcaa78-e631-482c-8433-5354a2101ef7" data-name="kettle top" cx="496.06" cy="1049.72" rx="496.06" ry="83.94" fill="#d0d2d3" stroke="#231f20" stroke-miterlimit="10" stroke-width="1.42"/>
-    <g id="a93efd47-066d-435b-b290-95945e5bda95" data-name="3way">
+  <g id="6a315da4-3b75-418d-a6be-f51ba074b3e7" data-name="iso inside">
+    <path d="M496.06,168.29C222.1,168.29,0,130.7,0,84.34v965.88c0,46.36,222.1,83.94,496.06,83.94s496.06-37.58,496.06-83.94V84.34C992.13,130.7,770,168.29,496.06,168.29ZM839.19,873.46c-13.37,0-24.2-20.34-24.2-45.44s10.83-45.44,24.2-45.44,24.2,20.34,24.2,45.44S852.56,873.46,839.19,873.46Z" fill="#d0d2d3" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <ellipse id="c4a6305d-8906-4744-99cd-8d3e50c08ab6" data-name="kettle top" cx="496.06" cy="84.34" rx="496.06" ry="83.94" fill="#d0d2d3" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <ellipse id="d5cdbef3-b752-4aad-a1be-b0d5b2c4b734" data-name="kettle top" cx="496.06" cy="1049.72" rx="496.06" ry="83.94" fill="#d0d2d3" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+    <g mask="url(#3ad390f3-25a7-40e4-a646-ce5f19d8681d)">
       <g>
-        <path d="M866,828c0,32.49-13.17,58.83-29.42,58.83h18.64c16.25,0,29.42-26.34,29.42-58.83s-13.17-58.83-29.42-58.83H836.58C852.82,769.18,866,795.53,866,828Z" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
-        <path d="M853.4,886.84s25.31-7.93,25.31-58.82c0-49.29-26.84-58.83-26.84-58.83" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
-        <path d="M847.35,886.84s25.31-7.93,25.31-58.82c0-49.29-26.84-58.83-26.84-58.83" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
-        <ellipse cx="836.58" cy="828.02" rx="29.42" ry="58.83" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.71"/>
-        <path d="M196.56,871.54a43.79,43.79,0,1,1,0-87.58H835.43s5.3,0,5.3,10.64c0,9.94-5.3,10.12-5.3,10.12H196.74a23.4,23.4,0,1,0,0,46.8H835.43s5.29,0.05,5.29,10.54c0,9.49-5.29,9.49-5.29,9.49H196.56Z" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="0.71"/>
-        <path d="M851.1,820.53c2.76,0,5-4.48,5-10s-2.24-10-5-10H108s-9.94.78-9.94,10,10.83,10,10.83,10H851.1Z" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="0.71"/>
-        <path d="M851.1,854.69c2.76,0,5-4.48,5-10s-2.24-10-5-10H108s-9.94.78-9.94,10,10.83,10,10.83,10H851.1Z" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="0.71"/>
+        <path d="M823.45,873.29h40.88s21.4-8.25,21.4-44.92c0-23.6-12-41.62-24-45.79h-37.9" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+        <path d="M855.73,873.29s21.4-8.25,21.4-44.92c0-24.27-10.28-39.7-22.34-45.79" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+        <path d="M847.13,873.29s21.4-8.25,21.4-44.92c0-22.7-13.74-43.42-23.13-45.79" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+        <path d="M838.53,873.29s21.45-8.77,21.4-44.92c0-28.76-13.76-42.18-24-45.79" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+        <path d="M830.09,873.29s21.4-2.66,21.4-44.92c0-27.54-12.67-43.08-24-45.79" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+        <path d="M806.28,796.14h18.21c3.64,0,6.6,5,6.6,11.15s-3,11.15-6.6,11.15H799.9a85.35,85.35,0,0,0-.07,18.37h24.65c3.64,0,6.6,5,6.6,11.15s-3,11.15-6.6,11.15H806c4.39,8.73,10.6,14.17,17.49,14.17,13.3,0,24.08-20.31,24.08-45.35s-10.78-45.35-24.08-45.35C816.72,782.58,810.64,787.77,806.28,796.14Z" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+        <path d="M818.93,836.81h5.55c3.64,0,6.6,5,6.6,11.15s-3,11.15-6.6,11.15h-5.55a6,6,0,0,0,4.52,2.37c4.42,0,8-6.05,8-13.52s-3.58-13.52-8-13.52A6,6,0,0,0,818.93,836.81Z" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+        <path d="M818.93,796.14h5.55c3.64,0,6.6,5,6.6,11.15s-3,11.15-6.6,11.15h-5.55a6,6,0,0,0,4.52,2.37c4.42,0,8-6.05,8-13.52s-3.58-13.52-8-13.52A6,6,0,0,0,818.93,796.14Z" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+        <path d="M152.92,836.81H824.48c3.64,0,6.6,5,6.6,11.15s-3,11.15-6.6,11.15H152.92s-11.25-.21-11.25-11.15S152.92,836.81,152.92,836.81Z" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
+        <path d="M152.92,796.14H824.48c3.64,0,6.6,5,6.6,11.15s-3,11.15-6.6,11.15H152.92s-11.25-.38-11.25-11.15S152.92,796.14,152.92,796.14Z" fill="#fff" stroke="#231f20" stroke-miterlimit="10" stroke-width="0.71"/>
       </g>
     </g>
   </g>
