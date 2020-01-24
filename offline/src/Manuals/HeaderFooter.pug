@@ -21,15 +21,16 @@ template#page-header
             text-align: center;
         }
             .pdfheaderlogo {
-            width: 10%;
+            position: absolute;
             font-family: "Titillium Web";
             font-size: 14px;
             text-align: left;
             }
         }
     .pdfheader
-        //.pdfheaderLogo
-            include ./heatingelements/img/logo.svg
+        .pdfheaderLogo
+            svg(viewbox="0 0 48 24" preserveAspectRatio="xMinyMin" overflow="hidden" src="./GenericAssets/img/logo.svg") 
+                //include ./GenericAssets/img/logo.svg
         .pdfheadertext #{ProductName} - User Manual
 
 //footer
