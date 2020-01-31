@@ -87,6 +87,17 @@ p {
 .icon {
   max-width: 24px;
 }
+.titleLogo {
+  @extend .image;
+  max-height: 36px;
+  margin-top: -48px;
+  margin-bottom: 30%;
+}
+.titleImage {
+  @extend .image;
+  height: 80%;
+  width: auto;
+}
 ////////////////////////////////////////////////////////////////////
 //There must be a better way than this to handle movement.        //
 ////////////////////////////////////////////////////////////////////
