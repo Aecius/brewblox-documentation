@@ -20,7 +20,7 @@ html {
   @extend .chapter;
   text-align: center;
   h1 {
-    font-size: (36rem /12);
+    font-size: (24rem /12);
   }
 }
 .pagebreak {
@@ -91,11 +91,12 @@ p {
   @extend .image;
   max-height: 36px;
   margin-top: -48px;
-  margin-bottom: 30%;
+  margin-bottom: 25%;
 }
 .titleImage {
   @extend .image;
-  height: 80%;
+  margin-top: -24px;
+  height: 100%;
   width: auto;
 }
 ////////////////////////////////////////////////////////////////////
