@@ -14,7 +14,10 @@
 .titlepage
   include ../TitlePage.pug
 .chapter
+  include:markdown-it(html=true) ./chapters/InstallingHE.md
+.chapter
   include ./chapters/InstallingHE.pug
+
 
 
 //importing header/footer
